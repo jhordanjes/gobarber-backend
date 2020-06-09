@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Gobarber é uma aplicação para prestadores de serviço, como Barbeiros, Cabeleireiros, controlarem agendamentos de clientes, recebidos via aplicação Mobile. E faça o gerenciamento pela aplicação web.
+Gobarber é uma aplicação para prestadores de serviço, como Barbeiros, Cabeleireiros, controlarem agendamentos de clientes, recebidos via aplicação Mobile. E faça o gerenciamento pela aplicação web. Está é a versão sem typescript. Para a versão utilizando typescript, <a href="https://github.com/jhordanjes/gobarber-ts">clique aqui</a>.
 
 ## Docker
 
